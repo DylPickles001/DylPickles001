@@ -13,4 +13,11 @@ Anything among programming applications, learning what programming languages sta
 Very little.. Hahaha 
 As stated previously, I currently only have very basic knowledge of how to create a basic website and program with HTML and Python respectively. I took AP Computer Science Principles in high school so I have some exposure to algorithms and boolean logic while learning how to do hexadecmial/binary conversions, but I honestly either forgot that information or don't know how to really apply that knowledge, so any advice would be helpful.
 
+### Projects in Progress
+
+Position/Velocity/Acceleration calculator-
+link to replit: https://repl.it/@DylanNguyen5/Position-Velocity-Acceleration-calculator
+                https://position-velocity-acceleration-calculator.dylannguyen5.repl.run/
+I got inspired to make this for my AP Calc and physics class, which often required the same computational process, but I wanted to see if I could make a program that could accelerate/enable a way to computate or solve these problems in a more efficient way or to check certain answers to problems on tests that I had.               
+
 #### Thank you for any tips or assistance!
