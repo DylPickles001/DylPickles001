@@ -15,14 +15,13 @@ As stated previously, I currently only have very basic knowledge of how to creat
 
 ## Projects
 ### GPA Calculator (working)-
-link to replit:https://repl.it/@DylanNguyen5/GPA-Calculator
-               https://GPA-Calculator.dylannguyen5.repl.run
+link to replit code: https://repl.it/@DylanNguyen5/GPA-Calculator
+link to program: https://GPA-Calculator.dylannguyen5.repl.run
 This came to mind when I wanted to make a simple program that asked for grades that the user had, then simply calculate their GPA. I got inspired to make this while in College App season, so we can calculate our GPA easily in a more interactive way. With this program, you can calculate your weighted or unweighted GPAs.
 
 ### Position/Velocity/Acceleration calculator (currently a work in progress)-
-link to replit: https://repl.it/@DylanNguyen5/Position-Velocity-Acceleration-calculator
-                https://position-velocity-acceleration-calculator.dylannguyen5.repl.run/
+link to replit code: https://repl.it/@DylanNguyen5/Position-Velocity-Acceleration-calculator
+link to program: https://position-velocity-acceleration-calculator.dylannguyen5.repl.run/
 I got inspired to make this for my AP Calc and physics class, which often required the same computational process, but I wanted to see if I could make a program that could accelerate/enable a way to computate or solve these problems in a more efficient way or to check certain answers to problems on tests that I had.               
-
 
 #### Thank you for any tips or assistance!
