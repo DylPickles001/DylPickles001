@@ -17,6 +17,7 @@ As stated previously, I currently only have very basic knowledge of how to creat
 ### GPA Calculator (working)-
 link to replit code: https://repl.it/@DylanNguyen5/GPA-Calculator
 link to program: https://GPA-Calculator.dylannguyen5.repl.run
+link to github repository: https://github.com/DylPickles001/APLitGradeCalc 
 This came to mind when I wanted to make a simple program that asked for grades that the user had, then simply calculate their GPA. I got inspired to make this while in College App season, so we can calculate our GPA easily in a more interactive way. With this program, you can calculate your weighted or unweighted GPAs.
 
 ### Position/Velocity/Acceleration calculator (currently a work in progress)-
