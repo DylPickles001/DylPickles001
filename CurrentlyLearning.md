@@ -20,6 +20,11 @@ I got lots of ideas, but I can't execute them yet.
 
 link to my replit pandemonium for Java Learning:https://repl.it/@DylanNguyen14/Learning-Java
 
+## C#
+C# is a language applicable for Unity and making games. Syntactically C# shares many similarities with Java, so learning both actually kills 2 birds with 1 stone.
+
+link to replit pandemonium for C# Learning: https://repl.it/@DylanNguyen14/Learning-CSharp
+
 ## (Seriously Lagging) Data Structures and Algorithms
 This is actually very important. Coding interviews operate off of these concepts.
 Honestly I've made very little progress in this area and only have a "rudimentary" knowledge of what 'Big O' Notation' is, but nothing to write home about.
