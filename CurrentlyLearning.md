@@ -28,3 +28,5 @@ link to replit pandemonium for C# Learning: https://repl.it/@DylanNguyen14/Learn
 ## (Seriously Lagging) Data Structures and Algorithms
 This is actually very important. Coding interviews operate off of these concepts.
 Honestly I've made very little progress in this area and only have a "rudimentary" knowledge of what 'Big O' Notation' is, but nothing to write home about.
+
+Reflecting on some Hacker rank challenges, I feel a knowledge of algorithms beforehand is more helpful.
