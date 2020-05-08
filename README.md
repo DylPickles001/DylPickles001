@@ -35,11 +35,6 @@ This program definitely came to mind when my fellow AP Lit classmates and I worr
 link to replit code: https://repl.it/@DylanNguyen14/Garden-of-Emotions
 link to program: https://Garden-of-Emotions.dylannguyen14.repl.run
 link to github repository: https://github.com/DylPickles001/Garden-of-Emotions-Poem
-This came into fruition initially after reading East of Eden, one of my favorite books that I read in AP Lit. I wrote a poem that synopsized the early parts of the novel, but I felt it was a great way to apply what I just read. I definitely owe a great deal to the creators of the ant simulator, who created a game program (also written in Python) that involved typing out stuff onto the console.
-
-### Position/Velocity/Acceleration calculator (currently a work in progress)-
-link to replit code: https://repl.it/@DylanNguyen5/Position-Velocity-Acceleration-calculator
-link to program: https://position-velocity-acceleration-calculator.dylannguyen5.repl.run/
-I got inspired to make this for my AP Calc and physics class, which often required the same computational process, but I wanted to see if I could make a program that could accelerate/enable a way to computate or solve these problems in a more efficient way or to check certain answers to problems on tests that I had.               
+This came into fruition initially after reading East of Eden, one of my favorite books that I read in AP Lit. I wrote a poem that synopsized the early parts of the novel, but I felt it was a great way to apply what I just read. I definitely owe a great deal to the creators of the ant simulator, who created a game program (also written in Python) that involved typing out stuff onto the console.          
 
 #### Thank you for any tips or assistance!
