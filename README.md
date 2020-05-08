@@ -8,7 +8,7 @@ GitHub from what I can tell is an incredible source of information on coding and
 
 Anything among programming applications, learning what programming languages stand for, learning what certain tasks programming languages can do, and learning skills I can apply towards real-life or strive towards greater learning and career prospects is especially desirable.
 
-As of current, I'm attempting to complete some MIT OCW CS courses such as 6.0001 to get CS basics, although I also hope to learn more about data structures and algorithms and C++ to maybe get into some competitive programming ventures. 
+As of current, I'm attempting to learn C++ and Java through completing online challenges and utilizing other online resources. 
 
 ## What I do know
 
