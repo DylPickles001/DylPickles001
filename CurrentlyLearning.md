@@ -8,6 +8,7 @@ so having a faster language could help.
 I suffered a great deal of Tutorial Hell and hope to end that by doing hands-on stuff for now. I'm hoping to do the same for Java.
 
 link to my replit pandemonium for C++ Learning: https://repl.it/@DylanNguyen14/Learning-C
+link to my replit edabit challenges for C++: https://repl.it/@DylanNguyen14/Edabit-Practice-C
 
 Current thoughts on C++:
 Having completed watching and taking notes of MIT 6.0001 Intro to CS and Python, I feel having knowledge of Object-Oriented Programming is an essential part in even scratching a surface in understanding an ounce of C++.
@@ -19,6 +20,7 @@ With gaining Java knowledge, I definitely want to use that knowledge to build An
 I got lots of ideas, but I can't execute them yet.
 
 link to my replit pandemonium for Java Learning:https://repl.it/@DylanNguyen14/Learning-Java
+link to replit edabit challenges for Java: https://repl.it/@DylanNguyen14/Edabit-Challenges-Java
 
 ## C#
 C# is a language applicable for Unity and making games. Syntactically C# shares many similarities with Java, so learning both actually kills 2 birds with 1 stone.
