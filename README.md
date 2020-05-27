@@ -31,10 +31,4 @@ link to program:https://AP-Lit-Grade-Calculator.dylannguyen14.repl.run
 link to github repository: https://github.com/DylPickles001/APLitGradeCalc
 This program definitely came to mind when my fellow AP Lit classmates and I worried about our AP Lit grades. This is especially due to our teacher hiding our final grades to us until we receive a report card. What I realized was that our category grades were actually still avaliable and he graded us in a weighted grade style, so I based the program's operation on calculating based on the specific weights that my teacher gave from our syllabus. Another interesting thing to note is the differences of the weight in categories by semester, since in our 2nd semester, we had to do a senior 'project' of a sort and reaching AP exam season. Please note that this program is specially for AP Lit students at my school, but the principles that were used in creating this program could definitely be incorporated in finding a grade of a class that incorporates a grade by weight scale to your liking.
 
-### Garden of Emotions: Typed out Poem (working)-
-link to replit code: https://repl.it/@DylanNguyen14/Garden-of-Emotions
-link to program: https://Garden-of-Emotions.dylannguyen14.repl.run
-link to github repository: https://github.com/DylPickles001/Garden-of-Emotions-Poem
-This came into fruition initially after reading East of Eden, one of my favorite books that I read in AP Lit. I wrote a poem that synopsized the early parts of the novel, but I felt it was a great way to apply what I just read. I definitely owe a great deal to the creators of the ant simulator, who created a game program (also written in Python) that involved typing out stuff onto the console.          
-
 #### Thank you for any tips or assistance!
